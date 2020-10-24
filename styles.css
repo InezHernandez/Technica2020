@@ -1,0 +1,27 @@
+/* including some font families */
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+/* First seting the background color: Use hex values to change color */
+body {background-color: #AD7A99;}
+
+/* change color of header text to white */
+h1 {
+  color: white;
+  font-size: 60px;
+  font-style: oblique;
+  font-family: sans-serif;
+}
+
+.homeDiv {
+  padding: 300px 0;
+}
